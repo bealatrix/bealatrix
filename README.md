@@ -7,6 +7,8 @@
 
 ![Bea GitHub stats](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=transparent)
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Tecnologias que estou estudando
 
 <div style ="display: inline_block"><br/>
