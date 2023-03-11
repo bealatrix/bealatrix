@@ -25,14 +25,14 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)&nbsp;
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)&nbsp;
+![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)&nbsp;
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg)&nbsp;
+![Node.JS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)&nbsp;
+![React.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)&nbsp;
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)&nbsp;
+![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#3.svg)&nbsp; 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
