@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=transparent" alt="Beatriz Rosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=transparent" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" alt="Beatriz Rosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=0d1117" />
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=FF8C00&line=FF8C00&point=eeaab8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
