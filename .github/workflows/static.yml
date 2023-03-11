@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo Dark Mode e Light Mode</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #FFFFFF; /*cor de fundo padrão*/
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #222222; /*cor de fundo no dark mode*/
+      }
+    }
+  </style>
+</head>
+</html>
