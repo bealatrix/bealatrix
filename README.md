@@ -4,9 +4,7 @@
 
 [![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Beatriz Rosa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=FF8C00&icon_color=FF8C00&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=00000000" />
-
-
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=00000000" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=FF8C00&line=FF8C00&point=eeaab8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
