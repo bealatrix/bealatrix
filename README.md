@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=FF8C00&icon_color=FF8C00&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=00000000" />
+[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=FF8C00&line=FF8C00&point=eeaab8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -39,4 +39,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bealatrix}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
