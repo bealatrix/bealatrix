@@ -2,10 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+##
+<br>
+
 [![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
 [![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
 <img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
-                                     
+ 
+ <br>
+ 
 [![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
 
 <div align="center">  
@@ -18,7 +23,7 @@
 <br>
 <details>
   <summary>🌵 Tools</summary>
- 
+  <br>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
@@ -27,12 +32,13 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+   <br>
   </div>
 
 </details>
 <details>
   <summary> 🌴 Studying in this moment</summary>
- 
+ <br>
   <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -45,10 +51,10 @@
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
   </div>
 </details>
-  
+<br>
 <br>
 <div align="center">  
-<img src="https://github.com/bealatrix/bealatrix/blob/main/eba.gif" width="220" style="margin-right: 20px;">
+<img src="https://github.com/bealatrix/bealatrix/blob/main/gif.gif" width="400"">
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
