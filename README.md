@@ -14,6 +14,8 @@
 <a href="https://twitter.com/__b__e__a__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </div> 
 
+##
+<br>
 <details>
   <summary>🌵 Tools</summary>
  
@@ -42,12 +44,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
   </div>
-
 </details>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bealatrix}/count.svg" /></p> 
-<br></div>
+  
+<br>
+<div align="center">  
+<img src="https://github.com/bealatrix/bealatrix/blob/main/eba.gif" width="220" style="margin-right: 20px;">
+</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
