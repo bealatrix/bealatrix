@@ -4,7 +4,7 @@
 
 [![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
 [![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
-<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color
+<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
                                      
 [![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
 
