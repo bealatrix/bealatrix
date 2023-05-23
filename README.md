@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
+[![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-k2m22on9y-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
+[![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-k2m22on9y-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
+<img width="41%" height="195px" src="https://grafico-readme-anura-k2m22on9y-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
 
 [![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
 
