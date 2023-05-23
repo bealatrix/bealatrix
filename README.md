@@ -2,10 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only" alt="Beatriz Rosa GitHub stats-Dark">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only" alt="Beatriz Rosa GitHub stats-Light">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" alt="Top Languages">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+    </a>
+</div>
+
 
 <div align="center">  
 <a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
