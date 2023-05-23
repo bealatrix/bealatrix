@@ -4,21 +4,18 @@
 
 [![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
 [![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=008000&icon_color=008000&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
-<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color=008000&bg_color=00000000" />
-
+<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=008000&text_color
+                                     
 [![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=008000&line=008000&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
-
 
 <div align="center">  
 <a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/beatriz-vit%C3%B3ria-garcia-rosa-79b57a1b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://twitter.com/__b__e__a__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
 </div> 
- 
- ---
 
 <details>
-  <summary>:zap: Tools</summary>
+  <summary>🌵 Tools</summary>
  
   <div align="center">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
@@ -32,7 +29,7 @@
 
 </details>
 <details>
-  <summary>:zap: Studying in this moment</summary>
+  <summary> 🌴 Studying in this moment</summary>
  
   <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
