@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3EDBF0&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5DA2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 ##
 <br>
 
-[![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=3EDBF0&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=3EDBF0&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
-<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=3EDBF0&text_color=FF5DA2&bg_color=00000000" />
+[![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
+[![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
+<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" />
  
  <br>
  
-[![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=3EDBF0&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
+[![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
 
 <div align="center">  
 <a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -56,4 +56,4 @@
 <img src="https://github.com/bealatrix/bealatrix/blob/main/gif.gif" width="400"">
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3EDBF0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer"/>
