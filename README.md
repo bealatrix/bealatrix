@@ -5,9 +5,9 @@
 ##
 <br>
 
-[![Beatriz Rosa GitHub stats-Dark](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/grafico_readme_anura#gh-light-mode-only)
-<img width="41%" height="195px" src="https://grafico-readme-anura-60r48f6zo-bealatrix.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" />
+[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-dark-mode-only)
+[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-light-mode-only)
+<img width="41%" height="195px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" />
  
  <br>
  
