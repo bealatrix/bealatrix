@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </div>
-
 </details>
+
 <details>
   <summary> 🦄 Studying in this moment</summary>
  <br>
