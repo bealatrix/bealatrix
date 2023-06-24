@@ -11,7 +11,7 @@
  
  <br>
  
-[![Ashutosh's github activity graph](https://grafico-readme-7k4di32rk-bealatrix.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/grafico_readme)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-pied.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/github-readme-activity-graph)
 
 <div align="center">  
 <a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
