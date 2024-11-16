@@ -1,30 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=header"/> <!-- Código da Animação em Onda -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5DA2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bea;I'm+21+years+old;I+am+from+Ouro+Preto+do+Oeste,+RO;I+study+analysis+and+systems+development+at+IFRO;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
+<!-- Código da Animação da Apresentação Pessoal -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5DA2&size=35&center=true&vCenter=true&width=1000&lines=Ooi,+meu+nome+é+Beatriz;Mas+todos+me+chamam+de+Bea;Eu+tenho+22+anos;Sou+de+Ouro+Preto+do+Oeste,+RO;+E+estudo+Análise+e+Desenvolvimento+de+Sistemas;+Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
 ##
-<br>
 
-[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-dark-mode-only)
-[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-light-mode-only)
-<img width="41%" height="195px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" />
- 
- <br>
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-pied.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/github-readme-activity-graph)
+### Sobre mim
 
-<div align="center">  
+- 💻 Trabalho atualmente em um call center, mas estou em transição para a área de tecnologia.
+- 🎓 Estudante de ADS e sempre em busca de aprender mais sobre programação e inteligência artificial.
+- 🌌 Fascinada pelo universo! Meu grande sonho é um dia contribuir para as descobertas sobre os mistérios do cosmos.
+- 🎯 Meu objetivo atual é aprimorar minhas habilidades em desenvolvimento de software e colaborar com projetos open-source.
+
+##
+
+### Minhas Estatísticas
+
+[![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-dark-mode-only)<!-- Código do Gráfico DARK de estatísticas do meu perfil -->
+[![Beatriz Rosa GitHub stats-Light](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=default&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-light-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-light-mode-only)<!-- Código do Gráfico LIGHT de estatísticas do meu perfil -->
+<img width="41%" height="195px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" /><!-- Código do Gráfico de linguagens -->
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-pied.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/github-readme-activity-graph)<!-- Código do Gráfico de atividades no perfil -->
+
+<div align="center">  <!-- Código de links de rede social e formas de contato -->
 <a href="https://discord.com/users/883021757638926376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-<a href="https://www.instagram.com/vitoriaasor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/bea-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://twitter.com/__b__e__a__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
- 	
+<a href="https://www.linkedin.com/in/bea-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>	
 </div> 
-
+ 
 ##
-<br>
-<details>
-  <summary>🍭 Tools</summary>
+
+### Tecnologias e Ferramentas
+
+- **Tenho conhecimento:**:
  <br>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
@@ -34,11 +41,11 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+ <br>
   </div>
-</details>
+ <br>
 
-<details>
-  <summary> 🦄 Studying in this moment</summary>
+- **Estou estudando no momento:**:
  <br>
   <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -48,10 +55,22 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </div>
-</details>
-<br>
+
+##
+
+### Curiosidades sobre mim 
+
+- 🌍 Além de programar, adoro aprender sobre diferentes culturas e teologia.
+
+- 🎶 Minhas paixões incluem música, leitura e explorar novos lugares.
+
+- 🚲 Ando de bicicleta todos os dias e adoro atividades ao ar livre.
+
+---
+
+### "O universo está cheio de mistérios, e eu quero ajudar a desvendá-los." 🚀
+
 <br> 
 <div align="center">  
 <img src="https://github.com/bealatrix/bealatrix/blob/main/gif.gif" width="400"">
