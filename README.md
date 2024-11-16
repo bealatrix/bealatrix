@@ -21,11 +21,6 @@
 <img width="41%" height="195px" src="https://github-readme-stats-silk-zeta-25.vercel.app/api/top-langs/?username=bealatrix&layout=compact&hide_border=true&title_color=00B4D8&text_color=FF5DA2&bg_color=00000000" /><!-- Código do Gráfico de linguagens -->
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-pied.vercel.app/graph?username=bealatrix&bg_color=transparent&color=00B4D8&line=FF5DA2&point=eeaab8&area=true&hide_border=true)](https://github.com/bealatrix/github-readme-activity-graph)<!-- Código do Gráfico de atividades no perfil -->
-
-<div align="center">  <!-- Código de links de rede social e formas de contato -->
-<a href="https://discord.com/users/883021757638926376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/bea-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>	
-</div> 
  
 ##
 
@@ -76,4 +71,9 @@
 <img src="https://github.com/bealatrix/bealatrix/blob/main/as40.gif" width="400"">
 </div> 
 
+<div align="center">  <!-- Código de links de rede social e formas de contato -->
+<a href="https://discord.com/users/883021757638926376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/bea-rosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>	
+</div> 
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer"/>
