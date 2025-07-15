@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=header"/> <!-- Código da Animação em Onda -->
 
 <!-- Código da Animação da Apresentação Pessoal -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5DA2&size=35&center=true&vCenter=true&width=1000&lines=Ooi,+meu+nome+é+Beatriz;Mas+todos+me+chamam+de+Bea;Eu+tenho+22+anos;Sou+de+Ouro+Preto+do+Oeste,+RO;+E+estudo+Análise+e+Desenvolvimento+de+Sistemas;+Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5DA2&size=35&center=true&vCenter=true&width=1000&lines=Ooi,+meu+nome+é+Beatriz;Mas+todos+me+chamam+de+Bea;Eu+tenho+23+anos;Sou+de+Ji-Paraná,+RO;+E+estudo+Análise+e+Desenvolvimento+de+Sistemas;+Seja+Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ##
 
