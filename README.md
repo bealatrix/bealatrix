@@ -5,15 +5,6 @@
 
 ##
 
-### Sobre mim
-
-- 💻 Trabalho atualmente como Auxiliar de Normas e Processos em um provedor de Internet, mas estou em transição para a área de tecnologia.
-- 🎓 Estudante de ADS e sempre em busca de aprender mais sobre programação e inteligência artificial.
-- 🌌 Fascinada pelo universo! Meu grande sonho é um dia contribuir para as descobertas sobre os mistérios do cosmos.
-- 🎯 Meu objetivo atual é aprimorar minhas habilidades em desenvolvimento de software e colaborar com projetos open-source.
-
-##
-
 ### Minhas Estatísticas
 
 [![Beatriz Rosa GitHub stats-Dark](https://github-readme-stats-silk-zeta-25.vercel.app/api?username=bealatrix&show_icons=true&theme=dark&title_color=00B4D8&icon_color=FF5DA2&border_color=00000000&bg_color=00000000#gh-dark-mode-only)](https://github.com/bealatrix/github-readme-stats#gh-dark-mode-only)<!-- Código do Gráfico DARK de estatísticas do meu perfil -->
